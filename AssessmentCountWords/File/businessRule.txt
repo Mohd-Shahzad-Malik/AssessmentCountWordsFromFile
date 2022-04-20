@@ -2,5 +2,5 @@
 //Here INPUTCHAR means to restrict the code to fetch the string starting with the configured character 
 //Here STRINGLENGTH means to restrict the code to fetch the string which is having length greater than configured length
 
-INPUTCHAR=K
-STRINGLENGTH=3
+INPUTCHAR=M
+STRINGLENGTH=5
