@@ -13,7 +13,7 @@ public class countWords {
 	
 	public static void main(String... args)
 	{
-		try(BufferedReader stringReader = new BufferedReader(new FileReader("/AssessmentCountWords/File/properies.txt"));
+		try(BufferedReader stringReader = new BufferedReader(new FileReader("/AssessmentCountWords/File/properties.txt"));
 			FileReader businessLogicProperties = new FileReader("/AssessmentCountWords/File/businessRule.txt"))
 		{	
 			
